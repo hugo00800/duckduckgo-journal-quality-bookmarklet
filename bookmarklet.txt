@@ -1,0 +1,1 @@
+javascript:(function () %7B%0A  var BASE %3D %22https%3A%2F%2Fraw.githubusercontent.com%2Fhugo00800%2Fduckduckgo-journal-quality-bookmarklet%2Fmain%2F%22%3B%0A  var s %3D document.createElement(%22script%22)%3B%0A  s.src %3D BASE %2B %22loader.js%3Fv%3D%22 %2B Date.now()%3B%0A  document.head.appendChild(s)%3B%0A%7D)()%3B
