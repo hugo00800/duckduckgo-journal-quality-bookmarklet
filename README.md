@@ -1,0 +1,1 @@
+# duckduckgo-journal-quality-bookmarklet
