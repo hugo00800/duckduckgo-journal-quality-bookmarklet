@@ -1,0 +1,1 @@
+javascript:(function () %7B%0A  var BASE %3D %22https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhugo00800%2Fsafari-journal-quality-bookmarklet%40d8e65bdc78218d7f52ecd771c0f6568804bd3ee7%2F%22%3B%0A  var s %3D document.createElement(%22script%22)%3B%0A  s.src %3D BASE %2B %22loader.js%22%3B%0A  document.head.appendChild(s)%3B%0A%7D)()%3B
